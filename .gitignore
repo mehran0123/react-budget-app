@@ -1,0 +1,16 @@
+node_modules
+/node_modules
+/.next
+/.next/**
+.next/**
+node_modules/
+.next/
+.env
+# PWA files
+**/public/sw.js
+**/public/workbox-*.js
+**/public/worker-*.js
+**/public/sw.js.map
+**/public/workbox-*.js.map
+**/public/worker-*.js.map
+next.config.js
